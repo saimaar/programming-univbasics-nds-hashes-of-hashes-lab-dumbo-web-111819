@@ -39,7 +39,7 @@ def naming_system
     PORTION_4
   }
   
-  
+  result
   
   # Remember:
   #  Kingdom
