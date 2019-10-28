@@ -32,7 +32,12 @@
 
 def naming_system
   
-  {}
+  result = {
+    
+  }
+
+    
+  
   
   
   # Remember:
