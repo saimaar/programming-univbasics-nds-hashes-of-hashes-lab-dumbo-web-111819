@@ -33,16 +33,10 @@
 def naming_system
   
   result = {
-    {
-#   label: "Kingdom",
-#   sub_category: {
-#     label: "Phylum",
-#     sub_category: {
-#       label: "Class"
-#     }
-#   }
-# }
-  
+    PORTION_1
+    PORTION_2
+    PORTION_3
+    PORTION_4
   }
   
   result
